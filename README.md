@@ -1,7 +1,7 @@
 ## Hello. My name is Herlea Marius 👋
 
 
-I am a programming student, especially **Java**.
+I am a programming student.
 
 
 - 🔭 I’m currently working on  [Ecommerce](https://github.com/mariusherlea/ecom "Ecommerce")
