@@ -5,5 +5,5 @@ I am a programming student.
 
 
 - 🔭 
-- 🌱 I’m currently learning Java, Spring Boot, MySQL, JPA, Hibernate, Angular.
+- 🌱 I’m currently learning all about web development.
 
